@@ -1,0 +1,26 @@
+{"Empresas":[
+     { 
+          "NomeFantasia": "Edson Sales Arantes", 
+          "cnpj": 564654654654654,
+          "capital": 89498498,
+          "CEP": 555555555
+     },
+     { 
+          "NomeFantasia": "Luiz Livelli", 
+          "cnpj": 55555555000,
+          "capital": 454465465,
+          "CEP": 9999999
+     },
+     {
+          "NomeFantasia": "Caique Caicedo De Plata", 
+          "cnpj": 1000000000000, 
+          "capital": 874654654,
+          "CEP": 3333333333
+     },
+     {
+          "NomeFantasia": "Edson machado", 
+          "cnpj": 449845948945198, 
+          "capital": 166984156,
+          "CEP": 8789784894
+     }     
+]}
